@@ -1,6 +1,6 @@
 {
-  "name": "react-draggable",
-  "version": "2.2.3",
+  "name": "@atscale/react-draggable",
+  "version": "2.2.4",
   "description": "React draggable component",
   "main": "dist/react-draggable.js",
   "browser": "dist/react-draggable.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mzabriskie/react-draggable.git"
+    "url": "https://github.com/atscaleinc/react-draggable.git"
   },
   "keywords": [
     "react",
